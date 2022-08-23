@@ -7,4 +7,4 @@ divisible by b.
 But they are both reculsive functions
 
 
-The file gcd.java 
+The file gcd shows the  
