@@ -7,4 +7,4 @@ divisible by b.
 But they are both reculsive functions
 
 
-The file gcd shows the impleamentation of euclid's alogrithm using
+The file gcd shows the impleamentation of euclid's alogrithm using division 
