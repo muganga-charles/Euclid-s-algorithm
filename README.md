@@ -5,3 +5,6 @@ The original version of Euclid’s algorithm is based on subtraction: for the ab
 divisible by b.
 (3).Using binary,This algorithm finds the gcd using only subtraction, binary representation, shifting and parity testing. We will use a divide and conquer technique.
 But they are both reculsive functions
+
+
+The file gcd.java 
